@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go-blockchain-tutorial&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/git.weddingpark.net" />
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/google.golang.org" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/git.weddingpark.net" />
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../project/gapi.weddingpark.net/src/google.golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
